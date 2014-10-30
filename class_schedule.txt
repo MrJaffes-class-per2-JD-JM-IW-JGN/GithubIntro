@@ -24,7 +24,13 @@ Per 6: Ap Gov, Rm P
 
 
 Team member 3
-
+name: Jordan Dewyse
+Per 1: AP Stats, Rm B10
+Per 2: AP Comp Sci, Rm B12
+Per 3: Graphic Design, Rm I
+Per 4: ERWC, Rm K
+Per 5: Ceramics, Rm 410
+Per 6: Economics, Rm 406
 
 
 Team member 4
